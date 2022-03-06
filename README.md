@@ -29,7 +29,8 @@ Ensure that you have mongoDB by running `mongod` at the command prompt. <br />
 
 ## Usage
 Here are the images and links of the pages: <br />
-![Budget-tracker](./public/assets/images/budget-tracker.png?raw=true)<br />
+![Budget-tracker](./public/assets/images/budget-tracker.png?raw=true) <br />
+https://guarded-badlands-28073.herokuapp.com/
 
 ## Credits
 Here are the list of collaborators:
