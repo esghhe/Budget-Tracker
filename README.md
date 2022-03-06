@@ -29,4 +29,14 @@ Ensure that you have mongoDB by running `mongod` at the command prompt. <br />
 
 ## Usage
 Here are the images and links of the pages: <br />
-![Budget-tracker](./public/assets/images/buget-tracker.png?raw=true)<br />
+![Budget-tracker](./public/assets/images/budget-tracker.png?raw=true)<br />
+
+## Credits
+Here are the list of collaborators:
+Samuel G Hagos
+
+
+## Questions
+More Questions? Contact me via:  
+GitHub: http://github.com/esghhe  
+Email: samghagos@gmail.com
