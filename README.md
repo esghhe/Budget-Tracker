@@ -23,11 +23,10 @@ The Budget-Tracker application allows a user to track their budget when they mak
 
 ## Installation
 Ensure that you have mongoDB by running `mongod` at the command prompt. <br />
-`$git clone https://github.com/kcheykim/spending-wisely.git` <br />
+`$git clone https://github.com/esghhe/Budget-Tracker.git` <br />
 `$npm i` <br />
 `$npm start`
 
 ## Usage
 Here are the images and links of the pages: <br />
-![spending-wisely](./public/assets/images/spending-wisely.png?raw=true)<br />
-https://tranquil-eyrie-70461.herokuapp.com/
+![Budget-tracker](./public/assets/images/buget-tracker.png?raw=true)<br />
